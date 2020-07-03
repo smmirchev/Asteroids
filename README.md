@@ -1,5 +1,7 @@
 # Asteroids Game
 
+<img src="https://github.com/smmirchev/Asteroids/blob/master/images/Interface.png">
+
 ## Getting Started
 Download the files, external libraries are not used.
 
